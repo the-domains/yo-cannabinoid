@@ -1,0 +1,14 @@
+name: Yo!CannabiNOID
+layout_spectrum: 0.5090970934944993
+typography_spectrum: 0.6270171298424254
+color:
+  brandColors:
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  brandStrength: 0.3897610042546644
+  lightness: 0.04355172027548315
+  saturation: 0.9805838920459139
+  rhythmicContrast: 0.3459937829196572
